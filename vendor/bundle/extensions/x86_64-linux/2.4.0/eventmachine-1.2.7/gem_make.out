@@ -1,16 +1,16 @@
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
-/usr/bin/ruby2.4 -r ./siteconf20180727-17456-10mv7m3.rb extconf.rb
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.4 -r ./siteconf20180727-21543-1fw08yv.rb extconf.rb
 creating Makefile
 
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" clean
 
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR="
 compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.so
 
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20180727-17456-c0wrg9
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20180727-21543-gjydw8

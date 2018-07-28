@@ -57,8 +57,8 @@ conftest.c: In function ‘main’:
 conftest.c:7:27: warning: unused parameter ‘argv’ [-Wunused-parameter]
  int main(int argc, char **argv)
                            ^
-/tmp/ccYb1SnT.o: In function `t':
-/mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:15: undefined reference to `xmlParseDoc'
+/tmp/ccihn3MV.o: In function `t':
+/home/balbano/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:15: undefined reference to `xmlParseDoc'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */
@@ -178,8 +178,8 @@ conftest.c: In function ‘main’:
 conftest.c:7:27: warning: unused parameter ‘argv’ [-Wunused-parameter]
  int main(int argc, char **argv)
                            ^
-/tmp/cchWzIsI.o: In function `t':
-/mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:16: undefined reference to `xsltParseStylesheetDoc'
+/tmp/ccqBhEwj.o: In function `t':
+/home/balbano/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:16: undefined reference to `xsltParseStylesheetDoc'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */
@@ -268,8 +268,8 @@ conftest.c: In function ‘main’:
 conftest.c:7:27: warning: unused parameter ‘argv’ [-Wunused-parameter]
  int main(int argc, char **argv)
                            ^
-/tmp/ccGsEgtz.o: In function `t':
-/mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:15: undefined reference to `exsltFuncRegister'
+/tmp/cceTBd3m.o: In function `t':
+/home/balbano/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:15: undefined reference to `exsltFuncRegister'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */
@@ -295,8 +295,8 @@ conftest.c: In function ‘main’:
 conftest.c:7:27: warning: unused parameter ‘argv’ [-Wunused-parameter]
  int main(int argc, char **argv)
                            ^
-/tmp/ccwrp58O.o: In function `t':
-/mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:16: undefined reference to `exsltFuncRegister'
+/tmp/cc0zASVR.o: In function `t':
+/home/balbano/balbano.github.io/vendor/bundle/gems/nokogiri-1.8.4/ext/nokogiri/conftest.c:16: undefined reference to `exsltFuncRegister'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */

@@ -1,11 +1,11 @@
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
-/usr/bin/ruby2.4 -r ./siteconf20180727-17456-1tp57sd.rb extconf.rb
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
+/usr/bin/ruby2.4 -r ./siteconf20180727-21543-1be4e30.rb extconf.rb
 creating Makefile
 
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
 make "DESTDIR=" clean
 
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
 make "DESTDIR="
 compiling arena.c
 compiling autolink.c
@@ -55,6 +55,6 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
-current directory: /mnt/c/Users/brend_000/repos/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
+current directory: /home/balbano/balbano.github.io/vendor/bundle/gems/commonmarker-0.17.9/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20180727-17456-qskjmb/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20180727-21543-7sr91n/commonmarker
