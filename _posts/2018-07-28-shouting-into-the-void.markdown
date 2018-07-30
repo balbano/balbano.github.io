@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Shouting into the Void"
-date:   2018-07-28 09:51:00 -0700
 categories: life
 ---
 
