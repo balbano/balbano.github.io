@@ -14,6 +14,8 @@ To solve the communication problem, it was decided that Monday morning (the day 
 
 # Day 0: Driving to Walupt Lake
 
+*Portland -> Trout Lake -> Walupt Lake*
+
 We called the ranger station first thing on Monday and the ranger said that they hadn't gotten any reports about the Miriam Fire smoke yet, but thought the wind would be in our favor and didn't try to dissuade us from our planned itinerary. They also told us that a washout on Coyote Trail 79 that we were worried about had just been repaired. We decided to go ahead with our Goat Rocks trip with the knowledge that we might have to adapt our itinerary if the smoke ended up being bad. I also was a little suspicious that I wasn't in good enough shape to handle our planned itinerary, but I figured, like the fire, I'd just have to adapt when the issue came up!
 
 We had taken the bus down to Eugene the previous day to borrow my parents' car and driven it back to Portland, so after we confirmed our itinerary with the rest of the crew, we headed out to find Scott and Sam at Walupt Lake.
@@ -28,7 +30,7 @@ The rest of the drive was pretty low-key, and we found Sam and Scott sprawled ou
 
 # Day 1: Big climb to Goat Lake
 
-*Nanny Ridge Trail 98, PCT, Lily Basin Trail 86, Goat Lake*
+*Walupt Lake -> Nanny Ridge Trail 98 -> PCT -> Lily Basin Trail 86 -> Goat Lake*
 
 On Tuesday morning, the rest of our crew started rolling in, and soon the 9 of us were gathered at the trailhead ready to tackle a big climb up Nannie Ridge Trail 98. 1900 ft of elevation gain over 2.4 miles got us all sweating right off the bat. The heat didn't help either. Eventually we joined up with the PCT and started seeing a fair number of other hikers.
 
