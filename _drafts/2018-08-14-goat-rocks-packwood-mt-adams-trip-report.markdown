@@ -30,25 +30,36 @@ The rest of the drive was pretty low-key, and we found Sam and Scott sprawled ou
 
 # Day 1: Big climb to Goat Lake
 
-*Walupt Lake -> Nanny Ridge Trail 98 -> PCT -> Lily Basin Trail 86 -> Goat Lake*
+*Walupt Lake -> Nanny Ridge Trail 98 -> PCT -> Snowgrass Trail 96 -> Goat Lake*
 
 On Tuesday morning, the rest of our crew started rolling in, and soon the 9 of us were gathered at the trailhead ready to tackle a big climb up Nannie Ridge Trail 98. 1900 ft of elevation gain over 2.4 miles got us all sweating right off the bat. The heat didn't help either. Eventually we joined up with the PCT and started seeing a fair number of other hikers.
 
 We all got a chuckle when a group of thruhikers said we were the most ultralight sectionhikers ever, and Sam demoed his footcare system to a hiker who was having trouble with their blisters, complete with taking off his shoes and getting out the leukotape.
 
-Shortly after Cispus Pass, and as we were all just about to melt from the heat, we came across a small streamcrossing with a waterfall! Our group had gotten pretty stretched out at this point, as we were all hiking different speeds, but we collected up at the waterfall, where the cold mist made the area significantly more pleasant. We lingered as long as we could, but eventually it was time to move on, heading towards the cutoff that would take us off the PCT and onto Lily Basin Trail 86 towards Goat Lake.
+Shortly after Cispus Pass, and as we were all just about to melt from the heat, we came across a small streamcrossing with a waterfall! Our group had gotten pretty stretched out at this point, as we were all hiking different speeds, but we collected up at the waterfall, where the cold mist made the area significantly more pleasant. We lingered as long as we could, but eventually it was time to move on, heading towards the cutoff that would take us off the PCT and onto Snowgrass Trail 96 towards Goat Lake.
 
 Most of Tuesday was spent walking through charming alpine meadows, with small patches of conniferous trees and views of high peaks in every direction. It was gorgeous.
 
 During the last mile or so of the hike, my knee started to hurt on the downhills. This was immediately worrying and frustrating! I'd done an overnight a few weeks back with similar mileage and elevation to this first day and my knees had felt amazing. But now my right knee was hurting. I tried not to stress too much about what it meant for the rest of the trip, and slowly picked my way down, then back up to Goat Lake where we were planning on camping.
-
-At one point Sarah pointed up to a shelf looking formation ahead and above us and said she bet that was Goat Lake. Some other folks were skeptical, as it looked kind of far, and like their was more climbing to get their, and we were getting pretty tired. But Sarah turned out to be right, and the payoff was definitely worth it!
 
 Goat Lake was gorgeous, surrounded by mountains and with a few icebergs hanging on late into the summer. The wind coming off the lake was cold, and Scott set up his shelter on the shore while the rest of us headed back down a few hundred feet to set up where it was slightly warmer.
 
 After making our pesto pasta salad (cold soaked ramen with pesto sauce) for dinner, we crawled under our tarp and wrapped up in our quilts and, aside from the knee, I was feeling great.
 
 # Day 2: The adventure begins
+
+Either in the morning, or the previous evening, we decided that rather than take our planned loop down Goat Ridge Trail 95 then back up Snowgrass, we would just head straight back to the PCT and onwards towards the knife edge and perhaps end up camping at Lost Lake. This would cut some miles off both today's and tomorrow's itineraries, which was fine by me, since my knee hadn't magically fixed itself overnight.
+
+We started off and Kate and I quickly fell towards the back of the group as I was walking slow and taking a lot of breaks. I found that if I hiked slow for an hour, then took a 20 min break to rest my knee and stretch my legs, I felt like I could keep on hiking without things getting worse. We played leapfrog with Chris, whose feet were hurting and was also taking it easy. Kate gave me her trekking pole, so I could hike with two poles for most of the day (we had each been using one pole up until this point).
+
+Day 2 was full of big alpine views, which was pretty dang cool! And the big alpine views was what several of our friends who had flown across the country were most excited about for this hike!
+
+Either just before, or at the beginning of the knife edge (I'm not sure where it officially starts) there were a few snow crossing. Most of them were fairly low-key, although you definitely had to pay attention, and I gave Kate her trekking pole back so we each had a pole for the snow. But the middle one felt pretty scary. I don't have a lot of experience evaluating snow crossings, but this one was pretty clearly of the if you fell it would be real bad variety, and while there were footsteps to walk in, they didn't feel super secure. I'd been walking in front because I was slower, with Kate behind me, and that turned out to be good on this section because about halfway through the scary crossing Kate said her adrenaline was really starting to pump and she could feel the impulse to go faster which she knew of course was not a good idea, so I continued to walk slow, and we kept up a conversation about nothing, trying to strike a balance of still focussing intently on our foot placements, but also offering something else to focus on to take the edge off the adrenaline.
+
+We made it through the snow without incident, and tried not to dwell too much on the fact that our planned itinerary had us doing these crossing again at the end of the trip. After the snow came the knife edge, which was gorgeous. Kate was a little distracted by the aftereffects of the adrenaline, and I was a little distracted by worrying about my knee, but the views on the knife edge were breathtaking.
+
+
+
 
 # Day 3: Hitchin', wheelin', and car campin'
 
