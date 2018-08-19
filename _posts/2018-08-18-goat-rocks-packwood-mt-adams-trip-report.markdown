@@ -4,6 +4,8 @@ title: Goat Rocks, Packwood, Mt. Adams Trip Report
 categories: trips
 ---
 
+![Tarp at Goat Lake]( {{ "/assets/2018-08-18-goat-rocks/tarp-at-goat-lake.JPG" | absolute_url }} )
+
 First trip report on the new blog! In which Kate and I go on a backpacking trip with a bunch of strangers from the internet and live to tell the tale! (edit: and in which I stream of consciousness write a whole lot of words and don't edit them. You have been warned!)
 
 I forget how it all started, but at some point, I was chatting online (seems thematic for this old-school blog idea) with a bunch of folks from the [ultralight subreddit](https://www.reddit.com/r/ultralight) and someone said we should all go on a trip together. And then all of a sudden folks were taking time off work and getting flights and coming up with trip ideas. Since a good chunk of us were located in the PNW, a 5 day trip through the Goat Rocks solidified as our plan... until a few days before we were supposed to leave the Miriam Fire started and everything went a little haywire.
@@ -149,4 +151,4 @@ I'll do another post with some thoughts about gear and that sort of thing.
 
 I'll also try and add some photos, but just writing this up ended up taking way longer than I expected, so for now, this is it!
 
-Also, for another perspective of the trip, check out [Sean's video](https://youtu.be/mh-aXyC5whs) on youtube! I think [Sam](https://www.youtube.com/channel/UCo-Gow_76-aVNsoa4BhhIbg) may have a trip videos coming up as well.
+Also, for another perspective of the trip, check out Sean's videos: [Part 1](https://youtu.be/mh-aXyC5whs) and [Part 2](https://www.youtube.com/watch?v=0ZBI7gYld7s&feature=youtu.be) on youtube! I think [Sam](https://www.youtube.com/channel/UCo-Gow_76-aVNsoa4BhhIbg) may have a trip videos coming up as well.
