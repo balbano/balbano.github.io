@@ -148,3 +148,5 @@ If you made it all the way through this, thanks for reading my first trip report
 I'll do another post with some thoughts about gear and that sort of thing.
 
 I'll also try and add some photos, but just writing this up ended up taking way longer than I expected, so for now, this is it!
+
+Also, for another perspective of the trip, check out [Sean's video](https://youtu.be/mh-aXyC5whs) on youtube! I think [Sam](https://www.youtube.com/channel/UCo-Gow_76-aVNsoa4BhhIbg) may have a trip videos coming up as well.
