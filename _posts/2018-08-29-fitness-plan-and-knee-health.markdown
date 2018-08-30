@@ -22,7 +22,7 @@ So I've concocted a plan. It's going to be a lot of work, so I'm posting about i
 
 I want my hiking to be limited by my cardio. I want to hike until I'm tired. I'm sick of hiking until I get hurt. Time to change that!
 
-# Before work: Simple and Sinister
+# In the morning: Simple and Sinister
 
 I've found that I have a better track record with short workouts I can do every day, rather than long workouts a few times a week. I also seem to do a little better with at-home workouts. "Simple and Sinister" is a workout program by Pavel Tsatsouline focussing on the [kettlebell swing](https://www.youtube.com/watch?v=yHxcTn1UeAc) and the [Turkish get-up](https://www.youtube.com/watch?v=0bWRPC49-KI). It takes about 25-40 minutes and you do it more or less every day, with occasional rest days as you need them or as life gets in the way.
 
@@ -30,7 +30,7 @@ I've found that I have a better track record with short workouts I can do every 
 
 I encountered these in a [blog post about a hiker fixing their knee up before a successful PCT thruhike](https://medium.com/@OVCM/how-i-fixed-my-knee-injury-in-time-to-hike-2-450-miles-this-summer-61fe599205e3) and they sound great. Basically, throughout the day, you squeeze your butt. That's it!
 
-# After work: Yoga with Adrienne
+# In the evening: Yoga with Adrienne
 
 Kate and I have been doing Yoga with Adrienne on youtube and it's been really great. Her instruction style seems to be just right for us at the moment, and we've managed to stick to it for several months now, so in an effort to not fix what ain't broke, I'm still on the Yoga with Adrienne every day train!
 
