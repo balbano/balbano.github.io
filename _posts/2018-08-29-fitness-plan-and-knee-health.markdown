@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitness Plan and Before Pics
+title: Fitness Plan and Knee Health
 categories: life
 ---
 
@@ -24,12 +24,20 @@ I want my hiking to be limited by my cardio. I want to hike until I'm tired. I'm
 
 # Before work: Simple and Sinister
 
-I've found that I have a better track record with short workouts I can do every day, rather than long workouts a few times a week. I also seem to do a little better with at-home workouts.
+I've found that I have a better track record with short workouts I can do every day, rather than long workouts a few times a week. I also seem to do a little better with at-home workouts. "Simple and Sinister" is a workout program by Pavel Tsatsouline focussing on the [kettlebell swing](https://www.youtube.com/watch?v=yHxcTn1UeAc) and the [Turkish get-up](https://www.youtube.com/watch?v=0bWRPC49-KI). It takes about 25-40 minutes and you do it more or less every day, with occasional rest days as you need them or as life gets in the way.
 
 # Throughout the day: Glute Kegels
 
-I encountered these in a [blog post about a hiker fixing their knee up before a successful PCT thruhike](https://medium.com/@OVCM/how-i-fixed-my-knee-injury-in-time-to-hike-2-450-miles-this-summer-61fe599205e3) and they sound great.
+I encountered these in a [blog post about a hiker fixing their knee up before a successful PCT thruhike](https://medium.com/@OVCM/how-i-fixed-my-knee-injury-in-time-to-hike-2-450-miles-this-summer-61fe599205e3) and they sound great. Basically, throughout the day, you squeeze your butt. That's it!
 
 # After work: Yoga with Adrienne
 
-Kate and I have been doing Yoga with Adrienne on youtube and it's been really great. Her instruction style seems to be just right for us at the moment, and we've managed to stick to it for several months now, only missing a few days, so in an effort to not fix what ain't broke, I'm still on the Yoga with Adrienne every day train!
+Kate and I have been doing Yoga with Adrienne on youtube and it's been really great. Her instruction style seems to be just right for us at the moment, and we've managed to stick to it for several months now, so in an effort to not fix what ain't broke, I'm still on the Yoga with Adrienne every day train!
+
+# Goals
+
+Goals are important! While my primary goal is pain free hiking, that's hard to measure, so my first goal is to hit 10x10 (10 sets of 10 reps) kettlebell swings with 24kg, 10x1 (10 sets of 1 rep) turkish get-ups with 16kg, and be able to recover fully each day. Right now I'm on 5 sets of each, and am pretty burnt after two or three days.
+
+I've been doing this plan for a little over a week now, and my consistency hasn't been perfect, but it's hasn't been too bad, and it makes me feel good (physically and emotionally) every time I complete a workout, so that's encouraging! Just gotta stick to it for like 6 months now ;)
+
+And lastly, if you'd like to see me shirtless, [here's a "before pic" and a cunningly photoshopped "after" pic showing my goals of improved posture and a rockin' booty]({{ "/assets/2018-08-29-fitness-plan/goals.gif" | absolute_url }}).
