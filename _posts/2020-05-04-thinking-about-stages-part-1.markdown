@@ -37,6 +37,8 @@ First off, two quick diagrams, with "P" for performer and "A" for audience to de
 
 **Audience-Audience Relationship:** In a proscenium, the relationship between audience members is typically supressed, both by the lighting, and by the fact that you can only see the backs of other audience members heads, which are generally less interesting than their faces. In an arena, being able to see across the stage to the audience members who are facing you creates an opportunity for significantly more audience-audience visual engagement. Depending on the reason a performance has been chosen to be staged in an arena arrangment, this audience-audience relationship may be chosen to be highlighted or supressed. Sports events are a type of performance where the audience-audience relationship is particularly important, typically with the audience both lit and organized to amplify the rivalry between fans of the two teams.
 
+### More to Come!
+
 That's all for today! I just wanted to get down basic building blocks before trying to tackle what these building blocks might mean for performers and audiences. This is all pretty basic stuff I think, but I'm shaking off the dust and clearing the cobwebs out of my brain, since it's been a minute since I've really engaged with thinking about performance. Starting simple feels good.
 
 More to come soon on this meandering tour through my thoughts on the relationships, scales, and formalities of different stages, and how those characteristics become a part of the performances on those stages!
