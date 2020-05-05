@@ -14,7 +14,7 @@ First off, two quick diagrams, with "P" for performer and "A" for audience to de
 
 ### Proscenium
 
-    PP
+      PP
     ------
     AAAAAA
     AAAAAA
