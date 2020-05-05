@@ -14,24 +14,20 @@ First off, two quick diagrams, with "P" for performer and "A" for audience to de
 
 ### Proscenium
 
-'''
-  PP
-------
-AAAAAA
-AAAAAA
-'''
+    PP
+    ------
+    AAAAAA
+    AAAAAA
 
 ### Arena
 
-'''
-AAAAAAAAAA
-AA+----+AA
-AA|    |AA
-AA| PP |AA
-AA|    |AA
-AA+----+AA
-AAAAAAAAAA
-'''
+    AAAAAAAAAA
+    AA+----+AA
+    AA|    |AA
+    AA| PP |AA
+    AA|    |AA
+    AA+----+AA
+    AAAAAAAAAA
 
 ### Basic Relationships
 
