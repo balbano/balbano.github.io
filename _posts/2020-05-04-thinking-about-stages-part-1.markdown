@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thinking About Stages - Part 1"
-categories: theater, art, performance, architecture
+categories: [theater, art, performance, architecture]
 ---
 
 Today's mood: "Fetch the Bolt Cutters" - Fiona Apple
