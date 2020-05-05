@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "100 Day Project"
-categories: life, art
+categories: [life, art]
 ---
 
 Today's mood: "Wuthering Heights" - Kate Bush

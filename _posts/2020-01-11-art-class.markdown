@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Back to Art/School"
-categories: life, art
+categories: [life, art]
 ---
 
 Today's mood: *Blood* - Kelsey Lu
