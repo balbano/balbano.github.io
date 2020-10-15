@@ -8,6 +8,8 @@ Today's mood: "Fetch the Bolt Cutters" - Fiona Apple
 
 Kate asked me to give a short presentation to her architecture firm to start a discussion about stages. I figured it was a good push to begin to reengage with my performance practice, and a chance to dust off the old blog! I'll be posting little thought snippets that will eventually serve as notes/outlines for the presentation.
 
+<!--more-->
+
 ## Thought 1: Eye Contact, Prosceniums, and Arenas.
 
 First off, two quick diagrams, with "P" for performer and "A" for audience to define the basic proscenium and arena arrangements. Both stage types can range from huge concert halls and sports arenas to small and intimate spaces with only a handful of audience members.
