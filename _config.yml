@@ -25,7 +25,9 @@ github_username:  balbano
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima #use remote minima to get latest version supporting the dark skin.
+minima:
+    skin: dark
 plugins:
   - jekyll-feed
 
