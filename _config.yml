@@ -32,6 +32,7 @@ plugins:
 # Site settings
 minima:
     skin: dark
+link-base-color: #bf7a8f
 show_excerpts: true
 excerpt_separator: <!--more-->
 paginate: 5
