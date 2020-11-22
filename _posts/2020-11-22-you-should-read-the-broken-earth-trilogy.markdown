@@ -3,9 +3,6 @@ layout: post
 title:  "You Should Read The Broken Earth Trilogy"
 categories: [art]
 ---
-
-Today's mood: "Bad News" - Junglepussy
-
 "Let's start with the end of the world, why don't we? Get it over with and move on to more interesting things."
 
 BANG! POW! Dang. That's how you start a novel. My goodness. MMM.
