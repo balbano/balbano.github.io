@@ -19,7 +19,7 @@ Read on for the blow-by-blow.
 
 The sun came out as soon as we left Portland which felt like a good omen. The drive along 199 and 101 was gorgeous curving highway and big trees. Stopped at Cristina's Mexican Restaurant in Crescent City which was everything you hope for in a hole-in-the-wall restaurant in a small town. High energy place where they knew everyone else's usual order by heart. Kate said, "just water for me, but you're getting a horchata right?" They knew what was up and brought us two horchatas anyways.
 
-Elk Creek Campground was fully booked, so it was definitely good we reserved ahead of time. The campground had a pretty quiet vibe despite being full. I bet it gets loud in the summer though. As promised, we saw several elk as we arrived. It was cold and wet when we arrived and we had breakfast sandwiches for dinner (egg, bacon, cheese, English muffin). We slept in the car, which is slightly too small for both of us (mainly because I like to thrash around a lot at night), but also very convenient and very warm.
+Elk Creek Campground was fully booked, so it was definitely good we reserved ahead of time. The campground had a pretty quiet vibe despite being full. I bet it gets loud in the summer though. As promised, we saw several elk as we arrived. It was cold and wet, and we had breakfast sandwiches for dinner (egg, bacon, cheese, English muffin). We slept in the car, which is slightly too small for both of us (mainly because I like to thrash around a lot at night), but also very convenient and very warm.
 
 ## Day 2, Nov. 24: Redwoods to the Lost Coast
 
@@ -65,7 +65,7 @@ We got a coffee at Mind's Eye Manufactory and Coffee Lounge, which would have be
 
 Continuing on the road trip theme of the day, we did the short Fern Canyon loop at Prairie Creek Redwoods. Despite the seasonal bridges being removed, it was a zoo! Lots of families with kids having a blast climbing around and getting wet and adults trying to carefully pick their way through balancing on logs and rocks.
 
-We headed back at Elk Prairie Campground and did a short walk on the Prairie Creek Trail and Nature Trail, which ended with Kate getting her feet wet and me balancing on a somewhat slippy log, as the seasonal bridge had been removed from a stream crossing at the very end of the loop. Our camp dinner of the trip was Knorr instant Spanish rice, Santa Fe instant refried beans, salsa, avocado, cheddar cheese, and corn chips. We call it the Fancy Skurka. (The traditional Skurka is instant rice, instant beans, cheese and Fritos, and is a backpacking staple). It is a close cousin to Frito Pie.
+We headed back at Elk Prairie Campground and did a short walk on the Prairie Creek Trail and Nature Trail, which ended with Kate getting her feet wet and me balancing on a somewhat slippy log, as the seasonal bridge had been removed from a stream crossing at the very end of the loop. Our final camp dinner of the trip was Knorr instant Spanish rice, Santa Fe instant refried beans, salsa, avocado, cheddar cheese, and corn chips. We call it the Fancy Skurka. (The traditional Skurka is instant rice, instant beans, cheese and Fritos, and is a backpacking staple). It is a close cousin to Frito Pie.
 
 ## Day 5, Nov. 27: Back to Portland
 
