@@ -10,9 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 3.7.3"
 
-# Use remote_theme in _config.yml to get the latest build of minima on
-# github in order to use minima 3.0 skins.
-gem "minima", "~> 2.5.1"
+gem "hitchens-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

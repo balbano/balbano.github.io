@@ -13,28 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Things and Thoughts
+title: Brendan Albano
 author: Brendan Albano
 email: brendan@brendanalbano.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Brendan Albano's blog.
+  A Weblog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://brendanalbano.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  balbano
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima #use remote minima to get latest version supporting the dark skin.
+theme: hitchens-theme
 plugins:
-  - jekyll-feed
+    - jekyll-paginate
 
 # Site settings
-minima:
-    skin: dark
 show_excerpts: true
-excerpt_separator: <!--more-->
 paginate: 5
+paginate_path: "/page/:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
