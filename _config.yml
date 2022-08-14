@@ -25,8 +25,10 @@ github_username:  balbano
 
 # Build settings
 markdown: kramdown
-theme: hitchens-theme
+# theme: hitchens-theme
+remote_theme: patdryburgh/hitchens
 plugins:
+    - jekyll-remote-theme
     - jekyll-paginate
 
 # Site settings
