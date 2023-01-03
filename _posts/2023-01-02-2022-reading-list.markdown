@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "2022 Reading List"
+categories: [art]
+---
+
+As part of a larger effort to spend less time on my phone and more time doing things I love, I read 61 books in 2022. [I wrote about]({% post_url 2020-10-14-when-did-i-stop-reading %}) how it was strange that I didn't read very much despite very much identifying as a reader back in 2020. After a solid warmup year in 2021, I really hit my stride in 2022.
+
+As with a lot of things, I was [inspired by Cal Newport](https://www.youtube.com/watch?v=gRBkIdc_VYU). I started off the year with a more modest goal of 2 books a month, then, after an 11 book bender in May, I figured I could handle a 5 books a month goal. Since I had some uneven months already, I decided to go for an average of 5 books a month, rather than exactly 5 every month. This goal felt aggressive, but flexible, and it kept me motivated through the year.
+
+Shifting from reading a little to reading a lot, and spending less time on my phone as a result, was a huge boon to my mental health and happiness this year.
+
+Without further ado, here are the 61 books I read in 2022. My favorites are noted "fav". This table may break the layout on my blog. If it does, apologies. I'm working on it :)
+
+
+|Number|Month    |Title                                |Series                   |Author                       |Favorites|
+|------|---------|-------------------------------------|-------------------------|-----------------------------|---------|
+|1     |January  |Deep Work                            |                         |Cal Newport                  |         |
+|2     |January  |The Graveyard Book                   |                         |Neil Gaiman                  |         |
+|3     |January  |The Curse of Chalion                 |World of the Five Gods 1 |Lois McMaster Bujold         |         |
+|4     |January  |Paladin of Souls                     |World of the Five Gods 2 |Lois McMaster Bujold         |         |
+|5     |February |Piranesi                             |                         |Susanna Clarke               |Fav      |
+|6     |February |New Suns                             |                         |ed. Nisi Shawl               |         |
+|7     |March    |Designing Design                     |                         |Kenya Hara                   |         |
+|8     |March    |Precision Nutrition                  |                         |John Berardi                 |         |
+|9     |April    |Delicious                            |                         |Rob Dunn, Monica Sanchez     |         |
+|10    |April    |This is How You Lose the Time War    |                         |Amal El-Mohtar, Max Gladstone|Fav      |
+|11    |April    |Among Others                         |                         |Jo Walton                    |Fav      |
+|12    |April    |A Psalm for the Wild-built           |Monk & Robot 1           |Becky Chambers               |         |
+|13    |May      |Travel Light                         |                         |Naomi Mitchison              |         |
+|14    |May      |The Long Way to a Small Angry Planet |Wayfarers 1              |Becky Chambers               |Fav      |
+|15    |May      |Closed and Common Orbit              |Wayfarers 2              |Becky Chambers               |Fav      |
+|16    |May      |Record of a Spaceborn Few            |Wayfarers 3              |Becky Chambers               |Fav      |
+|17    |May      |A The Galaxy and the Ground Within   |Wayfarers 4              |Becky Chambers               |Fav      |
+|18    |May      |Bird by Bird                         |                         |Anne Lamott                  |         |
+|19    |May      |Nova                                 |                         |Samuel R. Delany             |         |
+|20    |May      |The Caves of Steel                   |                         |Isaac Asimov                 |         |
+|21    |May      |Foundation                           |Foundation               |Isaac Asimov                 |         |
+|22    |May      |Tell the Machine Goodnight           |                         |Katie Williams               |         |
+|23    |May      |How Long ‘Til Black Future Month     |                         |N.K. Jemisin                 |Fav      |
+|24    |June     |Gold Fame Citrus                     |                         |Claire Vaye Watkins          |         |
+|25    |June     |Skyward Inn                          |                         |Aliya Whiteley               |         |
+|26    |June     |Do Androids Dream of Electric Sheep  |                         |Philip K. Dick               |         |
+|27    |June     |On Bullshit                          |                         |Harry G. Frankfurt           |         |
+|28    |June     |5/3/1                                |                         |Jim Wendler                  |         |
+|29    |July     |The Dispossessed                     |                         |Ursula K. Le Guin            |         |
+|30    |July     |Three Parts Dead                     |The Craft Sequence 1     |Max Gladstone                |         |
+|31    |July     |There is No Good Card for This       |                         |Emily McDowell, Kelsey Crowe |         |
+|32    |July     |The Art of Lifting                   |                         |Greg Nuckols                 |         |
+|33    |July     |The Science of Lifting               |                         |Greg Nuckols                 |         |
+|34    |July     |Several People are Typing            |                         |Calvin Kasulke               |         |
+|35    |July     |The Shards of Earth                  |The Final Architecture 1 |Adrian Tchaikovsky           |         |
+|36    |July     |Leviathan Wakes                      |The Expanse 1            |James S.A. Corey             |         |
+|37    |July     |A Prayer for the Crown-shy           |Monk & Robot 2           |Becky Chambers               |         |
+|38    |August   |Klara and the Sun                    |                         |Kazuo Ishiguro               |         |
+|39    |August   |At Home                              |                         |Bill Bryson                  |         |
+|40    |August   |Caliban's War                        |The Expanse 2            |James S.A. Corey             |         |
+|41    |August   |Two Serpents Rise                    |The Craft Sequence 2     |Max Gladstone                |         |
+|42    |August   |Full Fathom Five                     |The Craft Sequence 3     |Max Gladstone                |         |
+|43    |August   |Last First Snow                      |The Craft Sequence 4     |Max Gladstone                |         |
+|44    |August   |Four Roads Cross                     |The Craft Sequence 5     |Max Gladstone                |         |
+|45    |September|The Ruin of Angels                   |The Craft Sequence 6     |Max Gladstone                |         |
+|46    |September|Abaddon's Gate                       |The Expanse 3            |James S.A. Corey             |         |
+|47    |September|Nona the Ninth                       |The Locked Tomb          |Tamsyn Muir                  |         |
+|48    |October  |Play Unsafe                          |                         |Graham Walmsley              |         |
+|49    |October  |Never Have I Ever                    |                         |Isabel Yap                   |         |
+|50    |October  |Return of the Lazy Dungeon Master    |                         |Michael E. Shea              |         |
+|51    |October  |Swordspoint                          |The Riverside Series 1   |Ellen Kushner                |         |
+|52    |November |The Eyes of the Void                 |The Final Architecture 2 |                             |         |
+|53    |November |Cibola Burn                          |The Expanse 4            |James S.A. Corey             |         |
+|54    |November |Nemisis Games                        |The Expanse 5            |James S.A. Corey             |         |
+|55    |November |The Stars are Legion                 |Wayward Children 1       |Kameron Hurley               |         |
+|56    |December |Noor                                 |                         |Nnedi Okorafor               |         |
+|57    |December |Floralinda and the Forty Flight Tower|                         |Tamsyn Muir                  |         |
+|58    |December |The Empress of Salt and Fortune      |The Singing Hills Cycle 1|Nghi Vo                      |         |
+|59    |December |Every Heart a Doorway                |                         |Seanan McGuire               |         |
+|60    |December |To Be Taught If Fortunate            |                         |Becky Chambers               |Fav      |
+|61    |December |The Long Loaf                        |                         |Andrew Barton                |Fav      |
