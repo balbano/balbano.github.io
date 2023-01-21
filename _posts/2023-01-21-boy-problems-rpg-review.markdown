@@ -6,9 +6,9 @@ categories: games
 
 I've played Dungeons & Dragons on and off since I was a kid. I've played some other role-playing games here and there as well, but D&D has always occupied the lion's share of RPGs I've played. The on and off was mostly on when I was a kid. And mostly off for the next 10-15 years. Lately I've been getting back into the hobby, which has been a delight. One of the things I've been enjoying is branching out and trying other RPGs.
 
-Lasers and Feelings is a one-page rpg for playing a game in the genre of Star Trek. [Give it a quick read. It's only one page!](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) The rest of my thoughts will make more sense if you've familiarized yourself with Lasers and Feelings. I'm also assuming you've played D&D before!
+Lasers and Feelings is a one-page rpg for playing a game in the genre of Star Trek. [Give it a quick read. It's only one page!](http://onesevendesign.com/lasers_and_feelings_rpg.pdf){:target="_blank"} The rest of my thoughts will make more sense if you've familiarized yourself with Lasers and Feelings. I'm also assuming you've played D&D before!
 
-[Boy Problems](https://boyproblems.ca/boyproblems) uses the same basic rules as Lasers and Feelings, but trades Star Trek for cyberpunk + Carly Rae Jepson.
+[Boy Problems](https://boyproblems.ca/boyproblems){:target="_blank"} uses the same basic rules as Lasers and Feelings, but trades Star Trek for cyberpunk + Carly Rae Jepson.
 
 A few months ago, I GMed a session of Boy Problems and it was exciting to play a game that was so different than D&D. I ran the scenario that comes with boy problems, which is a heist taking place during a gala at MoMA NY in the near future.
 
