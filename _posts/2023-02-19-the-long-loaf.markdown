@@ -21,7 +21,7 @@ Weighing your ingredients is great. Baker's percentages in parentheses. If you a
 - 13g salt (2.6%)
 - 115g mature sourdough starter (I mix my starter with the same baker's percentages as the loaf so that I don't have to do any math when adding it in).
 
-## Day 1 - Morning: Warm up the starter
+## Day 1 - Morning: Feed the starter
 
 1. Take your starter out of your fridge (both books have good instructions for how to make a sourdough starter). I store my starter in a glass Weck jar. I use the rubber seal and the glass lid, but I don't use the little clips. I have no evidence that it matters, but this feels right to me.
 2. Discard all but a few tablespoons of starter. I save my discard in the fridge and occasionally make it into pancakes or other quick breads.
@@ -42,7 +42,7 @@ Weighing your ingredients is great. Baker's percentages in parentheses. If you a
 
 ## Day 3 - Morning: Bake
 
-1. Preheat the oven to 500F and set the load pan out on the counter to warm up. Make sure to grease the lid of the loaf pan. I've never been very good at interpreting the finger poke test, but you can try your hand at poking the dough to see if it's properly proofed. I usually don't bother and trust the wonderfully flexibility of the loaf pan method.
+1. Preheat the oven to 500F and set the load pan out on the counter to warm up. Make sure to grease the lid of the loaf pan. I've never been very good at interpreting the finger poke test, but you can try your hand at poking the dough to see if it's properly proofed. I usually don't bother and trust the wonderful flexibility of the loaf pan method.
 2. Put the pan in the oven with the lid on and bake for 25-30 minutes. In my pan, the loaf will rise up and press gently against the lid, but doesn't turn into a full square like some Pullman loafs.
 3. Remove the lid, turn the over down to 450F, and bake for another 25-30 minutes.
 4. Remove the loaf from the pan and cool completely on a wire rack before cutting. Once it is culled, I store the loaf in the Pullman pan, thanks to the integrated lid!
