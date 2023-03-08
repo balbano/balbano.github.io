@@ -52,3 +52,5 @@ That's a lot of steps all typed out, but the flexibility of this approach has al
 ![Loaf]( {{ "/assets/2023-02-19-the-long-loaf/loaf.jpg" | absolute_url }} )
 
 ![Loaf and Crumb]( {{ "/assets/2023-02-19-the-long-loaf/loaf-crumb.jpg" | absolute_url }} )
+
+Edit: here is [a brief loaf update]({% post_url 2023-03-07-sourdough-loaf-update %}) as my starter has continued to evolve!
