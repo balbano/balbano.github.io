@@ -8,8 +8,8 @@ Worlds Beyond Number is doing a 2-shot using the RPG Roll for Shoes which sounds
 
 I've also been wanting to dip my toes in doing a little RPG design by hacking one of these rules light systems. So here is a simple idea for a Roll for Shoes hack:
 
-# Roll for Shoes in the Dark
+## Roll for Shoes in the Dark
 
-- Use step 1 of [Roll for Shoes](https://rollforshoes.com/) to assemble your dice pool
-- In step 2, resolve the dice pool per [Blades in the Dark](https://bladesinthedark.com/core-system)'s dice pool resolution system: roll the dice, read the single highest die, 6 is a full success, 4-5 is partial success or success with complication, 1-3 is failure.
+- Use step 1 of [Roll for Shoes](https://rollforshoes.com/){:target="_blank"} to assemble your dice pool
+- In step 2, resolve the dice pool per [Blades in the Dark](https://bladesinthedark.com/core-system){:target="_blank"}'s dice pool resolution system: roll the dice, read the single highest die, 6 is a full success, 4-5 is partial success or success with complication, 1-3 is failure.
 - All other rules per Roll for Shoes
