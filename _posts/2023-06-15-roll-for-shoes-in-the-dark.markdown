@@ -15,3 +15,5 @@ I've also been wanting to dip my toes in doing a little RPG design by hacking on
 - All other rules per Roll for Shoes
 
 My thinking is two-fold. First, partial successes are fun. Second, because it doesn't require doing any arithmetic, and doesn't require the GM to set a difficulty for the opposed roll, it gets you right back to the action. Does Roll for Shoes benefit from these changes? No idea! I need to actually try playing this to find out. But it sounds fun on paper!
+
+Edit: apparently I am not the first person to come up with this idea! I guess that shouldn't be too surprising. Here is someone who beat me to it: [https://boocherry.itch.io/shoes-in-the-dark](https://boocherry.itch.io/shoes-in-the-dark){:target="_blank"}.
