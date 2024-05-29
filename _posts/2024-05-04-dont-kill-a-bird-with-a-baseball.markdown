@@ -41,3 +41,17 @@ I lean slightly towards the diceless resolution, but it's hard to know for sure 
 Overall, I had a blast playing the game, the premise is fantastic, the Friction mechanic is clever, and I'm excited to play it again to see more people come up with more Randy Johnsons and to watch them struggle against destiny.
 
 *Don't Kill a Bird with a Baseball: A Randy Johnson TTRPG* is written by JD Clement. You can purchase the game from [Rat Bastard Games on itch.io](https://rat-bastard-games.itch.io/dont-kill-a-bird-with-a-baseball){:target="_blank"} for a donation of your choosing. I highly recommend it.
+
+# Updates after GMing
+
+I ran *Don't Kill a Bird with a Baseball* a few weeks after playing it for the first time, and I wanted to add on a few additional thoughts to the review!
+
+First, running it was just as fun as playing. My three players all brought a ton of energy to their respective Randy Johnsons and we had a blast.
+
+Second, I found the structure of moving through the 7 hours before the incident to be really useful both to manage the overall running time of the game, and to manage the players time in the spotlight. I would advance the hour once everyone had had a chance to do something, and once at least 15-20 minutes had passed. I think our total play time was around 2.5-3 hours (I forget exactly when we shifted from introductions and rules to actually playing). I have a habit of wrapping improv-heavy one-shots pretty quickly (often running 1.5-2 hours), and I've been wanting to extend them a little more into the 2-3 hour range, so this landed exactly where I was trying to put it. The structure of the 7 in-game hours really helped me manage the pace! 
+
+Third, I tried out my idea of having the other players adjudicate whether each Johnson had successfully altered their fate. When the fateful moment came, I had each player give a quick recap of their successes and failures in altering their fate, had the other two players decide if they had succeeded or failed, then handed narrative control to the Johnson in question to narrate how the final moments played out, epilogue-style. I felt like this worked quite well, and gave the final moment when some birds were killed, and some were not, the weight I felt it deserved.
+
+Finally, the one thing I did somewhat wish I had as a GM is a mechanic for harm or conditions for the characters. If a character breaks a rib, or is high on mushrooms, it's all narrative, it doesn't affect the dice. This works fine, but I think I would have enjoyed having the ability to have the characters conditions affect the dice rolls. 
+
+I've had this same desire when running [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/){:target="_blank"}, so a few weeks ago I made a (very) quick hack experimenting with adding some rules along those lines: [Advanced Lasers & Feelings](https://brendanalbano.itch.io/advanced-lasers-feelings){:target="_blank"}. I haven't actually played my hack yet, so this may not actually be a good idea. Gotta play to find out!
