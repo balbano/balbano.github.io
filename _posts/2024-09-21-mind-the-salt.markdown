@@ -22,4 +22,4 @@ As an aside, I'm excited about blogging again. I want to spend more time being c
 
 - [Sven Halvorson](https://svenhalvorson.github.io/party_page/portfolio/completely_lost){:target="_blank"} meditates on spending a lot of time on a simple idea that brings him joy
 - [Nate Silver](https://www.natesilver.net/p/dont-let-randomness-make-a-fool-of){:target="_blank"} muses about how when you've got 80/20 odds, the 20% side still happens 20% of the time, and that makes people really angry sometimes
-- [Markus | Personable](https://personabler.blogspot.com/2024/09/a-quick-look-at-big-book-his-majesty.html){:target="_blank"} gives a quick look at a big book: His Majesty the Worm
+- [Markus - Personable](https://personabler.blogspot.com/2024/09/a-quick-look-at-big-book-his-majesty.html){:target="_blank"} gives a quick look at a big book: His Majesty the Worm
