@@ -30,6 +30,7 @@ remote_theme: patdryburgh/hitchens
 plugins:
     - jekyll-remote-theme
     - jekyll-paginate
+    - jekyll-feed
 
 # Site settings
 show_excerpts: true
