@@ -2,3 +2,5 @@
   url: /about/
 - title: Blogroll
   url: /blogroll/
+- title: Subscribe (Atom)
+  url: /feed.xml
