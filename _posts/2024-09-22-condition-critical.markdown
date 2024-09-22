@@ -4,9 +4,11 @@ title: "Condition Critical"
 categories: games
 ---
 
-What would an OSR-style game look like without hit points (or wounds, or stress, or ruin, or any other similarly abstract resource)? What about without stats?
+What would an OSR-style game look like without hit points (or wounds, or stress, or ruin, or any other similarly abstract resource)? What about without stats? I've been thinking about these questions because abstract ideas like hit points or stats are difficult to interact with within the fiction. And focusing on interacting with the fiction, rather than the numbers on your character sheet, is often cited as a component of OSR-style play. 
 
-We can look to the way games like *Blades in the Dark* and *Thirsty Sword Lesbians* use conditions to get one piece of the puzzle. Conditions are generally descriptions of bad things you are suffering from like "shot in the leg," "drunk," or "embarrassed". Sometimes (like in BitD) they are freeform, other times, like in TSL, they are a specific list. They also have some sort of mechanical effect, in addition to their narrative effects. Giving you a minus to your rolls, reducing the magnitude of your effects, reducing the size of your dice pool, etc.
+What does it mean to interact with having 3 out of 10 hit points remaining? Or to interact with a Strength of 15? There's a translation that has to occur to figure out what that is in the fiction. It's not a terribly difficult translation, but it's there nonetheless. So for this thought experiment, let's assume we want to directly interact with fictional characteristics like "an arrow embedded in your shoulder" or "rippling with muscles", while at the same time having clear mechanical effects for these characteristics. And we want to do it OSR-style, however ill-defined that may be. What might that look like?
+
+We can look to the way games like *Blades in the Dark* and *Thirsty Sword Lesbians* use conditions to get one piece of the puzzle. Conditions are generally descriptions of bad things you are suffering from like "shot in the leg," "drunk," or "embarrassed". Sometimes, like Harm in BitD, they are freeform, other times, like Conditions in TSL, they are a specific list. They also have some sort of mechanical effect, in addition to their narrative effects. Giving you a minus to your rolls, reducing the magnitude of your effects, reducing the size of your dice pool, etc.
 
 What about no stats? Again, lots of great examples here, such as "Roll with the Questions" from *Pasión de las Pasiones*, or skills from *Trophy* (as just one of many examples of games that use a list of descriptive words as your skills).
 
