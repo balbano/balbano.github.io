@@ -4,14 +4,14 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-In my continued effort to unearth the tradition of the internet of yore, I present to you: my blogroll!
+In my continued effort to unearth the traditions of the internet of yore, I present to you: my blogroll! This list feels a little short. Email me something you think I'd like about games, clown, or pumping iron! [brendan@brendanalbano.com](mailto:brendan@brendanalbano.com)
 
 ## Blogs / Websites
 
-- [The Games in Pieter Breugel the Elder's "Children's Games"](https://en.wikipedia.org/wiki/Children's_Games_(Bruegel)#The_games){:target="_blank"}
+- [The Games in "Children's Games"](https://en.wikipedia.org/wiki/Children's_Games_(Bruegel)#The_games){:target="_blank"}
 - [Bastionland by Chris McDowall](https://www.bastionland.com/){:target="_blank"}
 - [Chortle](https://www.chortle.blog/){:target="_blank"}
-- This list is a little short! Email me your favorite blogs about games, clown, or pumping iron! [brendan@brendanalbano.com](mailto:brendan@brendanalbano.com)
+- [FWD RPG PNW](https://fwdrpg.org/){:target="_blank"}
 
 ## Podcasts / Videos
 
