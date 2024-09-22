@@ -16,7 +16,7 @@ Why play a game if it makes you angry or frustrated? That's a very big question 
 
 ## Blog update
 
-As an aside, I'm excited about blogging again. I want to spend more time being curious and thinking about the things that capture my interest, and this seems like a good way to do it. I'm planning to blog more regularly, and also to include links in each post, inspired by the links [Chris McDowell includes in his newsletter](https://bastionland.substack.com/){:target="_blank"}. Maybe I'll even figure out how RSS feeds work so I can be a real blog boy.
+As an aside, I'm excited about blogging again. I want to spend more time being curious and thinking about the things that capture my interest, and this seems like a good way to do it. I'm planning to blog more regularly, and also to include links in each post, inspired by the links [Chris McDowall includes in his newsletter](https://bastionland.substack.com/){:target="_blank"}. Maybe I'll even figure out how RSS feeds work so I can be a real blog boy. (Edit: the ancient mysteries have been revealed. You can now subscribe with a feed reader using the link in the nav bar at the top or bottom.)
 
 ## Sparked my curiosity
 
