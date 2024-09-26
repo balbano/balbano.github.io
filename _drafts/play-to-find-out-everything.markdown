@@ -52,3 +52,4 @@ I'm two sessions into playtesting, and have been running "Gradient Descent" star
 - [](){:target="_blank"}
 - Markus's post about orcs?
 - RTFM Episode about RPG practices
+- https://slowlorispress.com/post/762315720839380992/gns-is-not-a-theory-it-is-a-tradition
