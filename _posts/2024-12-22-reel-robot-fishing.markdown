@@ -4,7 +4,9 @@ title: "REEL Robot Fishing"
 categories: games
 ---
 
-I had a fantastic time playing [Reel Robot Fishing](https://sandroad.itch.io/reel-robot-fishing){:target="_blank"} (Solo Version) by Sandro AD for Prismatic Wasteland's Covert Critic Secret Santa 2024. What follows is a transcript of my play session! I hope you enjoy fishing with Peregrine Nova and The Goblin as much as I did!
+I had a fantastic time playing Reel Robot Fishing (Solo Version) by Sandro AD for Prismatic Wasteland's Covert Critic Secret Santa 2024. What follows is a transcript of my play session! I hope you enjoy fishing with Peregrine Nova and The Goblin as much as I did!
+
+Download [Reel Robot Fishing on itch.](https://sandroad.itch.io/reel-robot-fishing){:target="_blank"}
 
 ## Character Creation
 
@@ -55,8 +57,8 @@ The bobber jiggles, but no bite. My HUD shows something investigating the lure a
 ### Cast 5
 
 - Something Nimble Bites!
-	- 2. The Catch has many dexterous tendrels
-	- 2 Successes needed to catch
+	- The Catch has many dexterous tendrils
+	- Two Successes needed to catch
 
 The line snaps taught and I shove the bean cake into my mouth and slam my arms back into The Goblin's control sleeves. The synthetic bourbon makes my eyes water. I may regret my choice of snack tomorrow.
 
