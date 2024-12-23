@@ -76,7 +76,7 @@ The AI systems in our MECs are designed not to exhibit any form of personality, 
 
 ## A quick review
 
-Did this game turn me into a fan of journaling games, mechs and fishing all at once? Maybe it's the bean cake talking, but I think it might have. The dexterity game portion where you throw the d4 onto the board to see what's biting was harder than I expected, and that ended up working fantastically to reinforce the "fishing is really about sitting and thinking" theme. I was glad to have so few bites and so much time to explore my character! The structure of the game made it feel so easy to conjure up an universe and a character that I want to spend more time with, and that's everything I want from a game! Thanks to Sandro AD for making such a delightful game, and thanks to Prismatic Wasteland for organizing the Covert Critic event that let me discover such a lovely game!
+Did this game turn me into a fan of journaling games, mechs and fishing all at once? Maybe it's the bean cake talking, but I think it might have. The dexterity game portion where you throw the d4 onto the board to see what's biting was harder than I expected, and that ended up working fantastically to reinforce the "fishing is really about sitting and thinking" theme. I was glad to have so few bites and so much time to explore my character! The structure of the game made me feel supported in conjuring up a universe and a character that I want to spend more time with, and that's everything I want from a game! Thanks to Sandro AD for making such a delightful game, and thanks to Prismatic Wasteland for organizing the Covert Critic event that let me discover such a lovely game!
 
 ## Links
 
