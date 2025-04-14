@@ -16,6 +16,8 @@ An unexpected highlight was the arrival of this beautiful eldritch creature just
 
 ![Grey Kitty]( {{ "/assets/2025-04-14-fwd-retreat-mini-con-reflections/grey-kitty.jpg" | absolute_url }} )
 
+In a beautiful moment of foreshadowing, our new friend took a liking to the player (who took this photo) who's character was the first to be torn apart by the cat-creature.
+
 We used [Liminal Horror](https://liminalhorrorrpg.com/){:target="_blank"} as the system to run this system-agnostic module, and I thought it worked well to have the system take the back seat and let the module itself shine. I remain a huge fan of both Mouth Brood and Amanda Lee Franck.
 
 ## Paranoia
