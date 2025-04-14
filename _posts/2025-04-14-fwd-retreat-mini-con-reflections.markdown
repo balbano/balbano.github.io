@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Storygame Rumors for Challenge-based Play
+title: FWD Retreat Mini-con Reflections
 categories: games
 ---
 
