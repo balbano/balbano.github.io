@@ -41,7 +41,7 @@ Your poetry will be remembered for countless generations.
 
 To write a poem, roll on the following tables to determine the context in which the poem found you. Then write the poem.
 
-Repeat Part 2 every day for a week, rolling anew context and writing a new poem each day. Any amount of time may pass within the fiction between the poems.
+Repeat Part 2 every day for a week, rolling a new context and writing a new poem each day. Any amount of time may pass within the fiction between the poems.
 
 If you're not sure where to start, try writing four lines. They don't have to rhyme. You don't have to reference the context in your poem; it is enough to be aware of it.
 
