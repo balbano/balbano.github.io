@@ -3,5 +3,5 @@ _site
 .jekyll-metadata
 vendor/**
 _cache
-_dist
-_dist-newstyle
+dist
+dist-newstyle
