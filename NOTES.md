@@ -1,6 +1,8 @@
 # To Do
 
-- Fix images in old posts. Image link format is different. Presumably linking to another post within the blog will also be different, so check that out and fix it as well!
+- [x] Fix images in old posts. Image link format is different. Presumably linking to another post within the blog will also be different, so check that out and fix it as well!
+- [ ] Add RSS feed
+- [ ] Add some light theming. Maybe sans serif font, dark background? Crib from Catppuccin colors? Or use IA Writer Quatro?
 
 # Notes to myself
 
