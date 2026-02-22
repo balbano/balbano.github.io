@@ -14,7 +14,7 @@ On Friday night, I ran [Mouth Brood](https://gamesomnivorous.com/collections/man
 
 An unexpected highlight was the arrival of this beautiful eldritch creature just as the team first encountered a cat-like monster:
 
-![Grey Kitty]( {{ "/assets/2025-04-14-fwd-retreat-mini-con-reflections/grey-kitty.jpg" | absolute_url }} )
+![Grey Kitty](/images/2025-04-14-fwd-retreat-mini-con-reflections/grey-kitty.jpg)
 
 In a beautiful moment of foreshadowing, our new friend took a liking to the player (who took this photo) who's character was the first to be torn apart by the cat-creature.
 

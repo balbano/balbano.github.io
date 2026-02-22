@@ -20,7 +20,7 @@ Try giving your players an opportunity to make up rumors about the world! I foun
 
 And as a little visual treat, here are some of lovely hexes from [Games Omniverious](https://gamesomnivorous.com/collections/hex-omnivorous)
 
-![Rotten Springs Hexcrawl]( {{ "/assets/2025-02-12-storygame-rumors-for-challenge-based-play/rotten-springs-hexcrawl.jpg" | absolute_url }} )
+![Rotten Springs Hexcrawl](/images/2025-02-12-storygame-rumors-for-challenge-based-play/rotten-springs-hexcrawl.jpg)
 
 They're headed to Rotten Springs. If you'd like to take a dip in Rotten Springs yourself, pick up [Gurtie's Guide VII - Rotten Springs](https://brendanalbano.itch.io/rotten-springs).
 

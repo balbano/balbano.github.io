@@ -14,7 +14,7 @@ I'm going to experiment with doing a blog series where I post about things I enj
 
 I watched *Barbarella* for the first time recently, and then proceeded to listen to a bunch of podcasts about *Barbarella*. I had an "aha!" moment listening to the *Midnight Mass* podcast, Episode 39, *Barbarella*, where they said "[*Barbarella* is] more about these extravagant set pieces and these strange sequences that further push you into a non-reality than any really structured plot... it's a bunch of just scenes until the plot sort of happens, but each of those scenes are sort of their own draggy experiences."
 
-![Essence of Man]( {{ "/assets/2025-10-04-more-than-telling-a-story-part-1-describing/barbarella-essence-of-man.jpg" | absolute_url }} )
+![Essence of Man](/images/2025-10-04-more-than-telling-a-story-part-1-describing/barbarella-essence-of-man.jpg)
 
 Just like the extravagant set pieces and strange sequences in *Barbarella*, there is a playful joy in simply describing wild shit. Whether it's a setting, a situation, or a creature, I relish the creative act of describing. This can be a special treat for the GM, or something the whole table contributes to, depending on the style of game. The describing can be conjured up wholly from your imagination, a response to a prompt, or filling in the blanks in something from an adventure module. I have found great satisfaction in treating this act of describing as play in-and-of-itself, rather than as something in service to another goal, such as telling a story.
 

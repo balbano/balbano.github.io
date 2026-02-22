@@ -4,7 +4,7 @@ title:  "2022 Reading List"
 categories: [art]
 ---
 
-As part of a larger effort to spend less time on my phone and more time doing things I love, I read 61 books in 2022. [I wrote about]({% post_url 2020-10-14-when-did-i-stop-reading %}) how it was strange that I didn't read very much despite very much identifying as a reader back in 2020. After a solid warmup year in 2021, I really hit my stride in 2022.
+As part of a larger effort to spend less time on my phone and more time doing things I love, I read 61 books in 2022. [I wrote about](2020-10-14-when-did-i-stop-reading.html) how it was strange that I didn't read very much despite very much identifying as a reader back in 2020. After a solid warmup year in 2021, I really hit my stride in 2022.
 
 As with a lot of things, I was [inspired by Cal Newport](https://www.youtube.com/watch?v=gRBkIdc_VYU). I started off the year with a more modest goal of 2 books a month, then, after an 11 book bender in May, I figured I could handle a 5 books a month goal. Since I had some uneven months already, I decided to go for an average of 5 books a month, rather than exactly 5 every month. This goal felt aggressive, but flexible, and it kept me motivated through the year.
 

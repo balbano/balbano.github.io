@@ -4,7 +4,7 @@ title: Goat Rocks, Packwood, Mt. Adams Trip Report
 categories: trips
 ---
 
-![Tarp at Goat Lake]( {{ "/assets/2018-08-18-goat-rocks/tarp-at-goat-lake.JPG" | absolute_url }} )
+![Tarp at Goat Lake](/images/2018-08-18-goat-rocks/tarp-at-goat-lake.JPG)
 
 First trip report on the new blog! In which Kate and I go on a backpacking trip with a bunch of strangers from the internet and live to tell the tale! (edit: and in which I stream of consciousness write a whole lot of words and don't edit them. You have been warned!)
 
