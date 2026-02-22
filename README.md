@@ -11,3 +11,8 @@ When I edit site.hs, it seems like I have to run `cabal install site --overwrite
 ## Misc
 
 Using this command `find . -type f -exec sed -i 's/{:target="_blank"}//g' {} \;` to remove all the special kramdown open links in new window stuff that Hakyll doesn't support (and that I don't really want anymore anywas) was cool!
+
+Fix the old Jekyll-style image links:
+
+find . -type f -exec sed -i 's/ {{ “\/assets/images/g' {} \;`
+find . -type f -exec sed -i 's/" | absolute_url }} )//g' {} \;`

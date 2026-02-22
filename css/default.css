@@ -31,6 +31,10 @@ footer {
   color: #555;
 }
 
+img {
+  max-width: 100%;
+}
+
 h1 {
   font-size: 2.4rem;
 }
