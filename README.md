@@ -1,3 +1,7 @@
+# To Do
+
+- Fix images in old posts. Image link format is different. Presumably linking to another post within the blog will also be different, so check that out and fix it as well!
+
 # Notes to myself
 
 ## Cabal notes
