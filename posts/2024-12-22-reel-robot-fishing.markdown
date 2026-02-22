@@ -6,7 +6,7 @@ categories: games
 
 I had a fantastic time playing Reel Robot Fishing (Solo Version) by Sandro AD for Prismatic Wasteland's Covert Critic Secret Santa 2024. What follows is a transcript of my play session! I hope you enjoy fishing with Peregrine Nova and The Goblin as much as I did!
 
-Download [Reel Robot Fishing on itch.](https://sandroad.itch.io/reel-robot-fishing){:target="_blank"}
+Download [Reel Robot Fishing on itch.](https://sandroad.itch.io/reel-robot-fishing)
 
 ## Character Creation
 
@@ -80,6 +80,6 @@ Did this game turn me into a fan of journaling games, mechs and fishing all at o
 
 ## Links
 
-- [Prismatic Wasteland](https://www.prismaticwasteland.com/){:target="_blank"}, host of the Covert Critic Secret Santa event. Thanks for organizing such a fun holiday event!
-- [Sandro AD's itch.io page](https://sandroad.itch.io/){:target="_blank"}, with Reel Robot Fishing and many other cool games!
-- [Robin Fjärem's review of one of my games for Covert Critic 2024!](https://robinfj.substack.com/i/152929417/prismatic-wasteland-secret-santa-covert-critic){:target="_blank"}
+- [Prismatic Wasteland](https://www.prismaticwasteland.com/), host of the Covert Critic Secret Santa event. Thanks for organizing such a fun holiday event!
+- [Sandro AD's itch.io page](https://sandroad.itch.io/), with Reel Robot Fishing and many other cool games!
+- [Robin Fjärem's review of one of my games for Covert Critic 2024!](https://robinfj.substack.com/i/152929417/prismatic-wasteland-secret-santa-covert-critic)

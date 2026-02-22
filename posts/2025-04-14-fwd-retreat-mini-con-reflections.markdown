@@ -6,11 +6,11 @@ categories: games
 
 I just got back from a mini-con/GM retreat and wanted to jot down some highlights and reflections before I have to do my chores and get back to the office!
 
-This is now the 2nd year that about 15 of the folks who run games for [FWD RPG PNW](https://fwdrpg.org/){:target="_blank"} have rented out a building at the Mt. Hood Kiwanis Camp to have a weekend of gaming and chatting and snacking. This year we expanded the amount of gaming space we rented, which ended up including a fireplace and a surprise guest (more on that in a second), and it was delightful! There's something special about playing games *on vacation* that feels different than playing games on a weekend. Even if the "vacation" is just a long weekend. I highly recommend it!
+This is now the 2nd year that about 15 of the folks who run games for [FWD RPG PNW](https://fwdrpg.org/) have rented out a building at the Mt. Hood Kiwanis Camp to have a weekend of gaming and chatting and snacking. This year we expanded the amount of gaming space we rented, which ended up including a fireplace and a surprise guest (more on that in a second), and it was delightful! There's something special about playing games *on vacation* that feels different than playing games on a weekend. Even if the "vacation" is just a long weekend. I highly recommend it!
 
 ## Mouth Brood
 
-On Friday night, I ran [Mouth Brood](https://gamesomnivorous.com/collections/manifestus-omnivorous/products/mouth-brood){:target="_blank"} by [Amanda Lee Franck](https://comradery.co/amandalee){:target="_blank"}. I think the print version is out of print, but I got a PDF from [Drive Thru RPG](https://www.drivethrurpg.com/en/product/373291/mouth-brood){:target="_blank"}. This was my second time running Mouth Brood, and it delivered again. The players spent the first half of the session nervously scoping out the site, setting traps and trying to lure creatures out rather than venture into the unknown. I was at first worried that this might not be fun, but the magic of these site-based, "plotless" modules is that they can accommodate unexpected ways of engaging with the adventure site. The tension of watching and waiting turned out to be really fun and made it all the more exciting when the players finally braved entering the dome buried in the glacier.
+On Friday night, I ran [Mouth Brood](https://gamesomnivorous.com/collections/manifestus-omnivorous/products/mouth-brood) by [Amanda Lee Franck](https://comradery.co/amandalee). I think the print version is out of print, but I got a PDF from [Drive Thru RPG](https://www.drivethrurpg.com/en/product/373291/mouth-brood). This was my second time running Mouth Brood, and it delivered again. The players spent the first half of the session nervously scoping out the site, setting traps and trying to lure creatures out rather than venture into the unknown. I was at first worried that this might not be fun, but the magic of these site-based, "plotless" modules is that they can accommodate unexpected ways of engaging with the adventure site. The tension of watching and waiting turned out to be really fun and made it all the more exciting when the players finally braved entering the dome buried in the glacier.
 
 An unexpected highlight was the arrival of this beautiful eldritch creature just as the team first encountered a cat-like monster:
 
@@ -18,11 +18,11 @@ An unexpected highlight was the arrival of this beautiful eldritch creature just
 
 In a beautiful moment of foreshadowing, our new friend took a liking to the player (who took this photo) who's character was the first to be torn apart by the cat-creature.
 
-We used [Liminal Horror](https://liminalhorrorrpg.com/){:target="_blank"} as the system to run this system-agnostic module, and I thought it worked well to have the system take the back seat and let the module itself shine. I remain a huge fan of both Mouth Brood and Amanda Lee Franck.
+We used [Liminal Horror](https://liminalhorrorrpg.com/) as the system to run this system-agnostic module, and I thought it worked well to have the system take the back seat and let the module itself shine. I remain a huge fan of both Mouth Brood and Amanda Lee Franck.
 
 ## Paranoia
 
-Saturday morning I played in a game of [Paranoia](https://www.mongoosepublishing.com/collections/paranoia){:target="_blank"}, which has been on my "want to play" list for ages. It was a blast. I really enjoyed the character creation process where the choices I made impacted the other player's character sheet, and vice versa. It felt like a fun mix of the best parts of getting to make a character from scratch, and the best parts of being handed a randomly generated character to respond to.
+Saturday morning I played in a game of [Paranoia](https://www.mongoosepublishing.com/collections/paranoia), which has been on my "want to play" list for ages. It was a blast. I really enjoyed the character creation process where the choices I made impacted the other player's character sheet, and vice versa. It felt like a fun mix of the best parts of getting to make a character from scratch, and the best parts of being handed a randomly generated character to respond to.
 
 The GM had prepared a lot of great stuff for the scenario, including a huge pile of fortune-cookie-sized slips of paper with the "threat analysis messages" that were being delivered by a helmet that was assigned to the other player's troubleshooter when we set out on our job. After getting more and more worried about the mountain of secret information the GM was passing to the other player, it was revealed about half-way through the scenario that these were randomly generated corporate platitudes and encouragements. Not sinister threat analysis data at all. Except the one time they were. Delightful.
 
@@ -30,7 +30,7 @@ I'm glad to have played Paranoia, I'd play it again, and I had a ton of fun with
 
 ## Patchwork World
 
-On Saturday evening I ran [Patchwork World](https://erinking.itch.io/patchwork-world-sixth-edition){:target="_blank"} by Aaron King. I ran the free pamphlet version of [Bakto's Terrifying Cuisine](https://roll4tarrasque.itch.io/baktos-terrifying-cuisine){:target="_blank"} by Giuliano Roverato. I've come to realize that 1 double-sided 8.5x11 piece of paper is exactly how much content I want for a one-shot, so Bakto's was perfect.
+On Saturday evening I ran [Patchwork World](https://erinking.itch.io/patchwork-world-sixth-edition) by Aaron King. I ran the free pamphlet version of [Bakto's Terrifying Cuisine](https://roll4tarrasque.itch.io/baktos-terrifying-cuisine) by Giuliano Roverato. I've come to realize that 1 double-sided 8.5x11 piece of paper is exactly how much content I want for a one-shot, so Bakto's was perfect.
 
 The stripped-down, PbtA, all-moves nature of Patchwork World made running the one-shot easy and fun for me, and my players told me they particularly loved the way character creation worked. The first thing we did in character creation was each player picked two moves from the long list of wonderfully unhinged moves. Then, the alchemy of placing the two moves side-by-side magically generated a character concept that drove the rest of character creation. It was easy, and more importantly, it was fun!
 
@@ -38,7 +38,7 @@ My partner said that this is the first time she felt like she's really gotten ho
 
 ## Legend in the Mist
 
-In what became a theme of the weekend for me, character creation was a lot of fun. Characters in [Legend in the Mist](https://cityofmist.co/collections/legend-in-the-mist){:target="_blank"} are primarily composed of 4 themes, and the GM had pre-generated a big stack of themes, with a set of "kid" themes (since we were all playing teenagers), plus a bunch of others. Coming up with a concept first, then making up 4 themes to flesh it out would have been an analysis-paralysis-fueled nightmare.
+In what became a theme of the weekend for me, character creation was a lot of fun. Characters in [Legend in the Mist](https://cityofmist.co/collections/legend-in-the-mist) are primarily composed of 4 themes, and the GM had pre-generated a big stack of themes, with a set of "kid" themes (since we were all playing teenagers), plus a bunch of others. Coming up with a concept first, then making up 4 themes to flesh it out would have been an analysis-paralysis-fueled nightmare.
 
 Instead, I had the joy of choosing sparks from a thoughtfully curated pile one by one and watching a character emerge.
 
@@ -48,7 +48,7 @@ I think the game system itself is probably not exactly what I'm looking for, but
 
 ## The Zone
 
-As a nice thematic bookend to the weekend, which began with the Roadside Picnic inspired OSR module Mouth Brood, the last game I played was the Roadside Picnic inspired storygame [The Zone](https://thezonerpg.com/){:target="_blank"} by Raph D'Amico. I haven't read Roadside Picnic, but I've had it on hold at the library for a while, and I came home to an email that it had arrived!
+As a nice thematic bookend to the weekend, which began with the Roadside Picnic inspired OSR module Mouth Brood, the last game I played was the Roadside Picnic inspired storygame [The Zone](https://thezonerpg.com/) by Raph D'Amico. I haven't read Roadside Picnic, but I've had it on hold at the library for a while, and I came home to an email that it had arrived!
 
 Character creation in The Zone also involved selecting a few prompts to combine into a character. Somehow this didn't have quite the alchemy for me that Patchwork World and Legend in the Mist did, but this very well may be because I was pretty tired at this point. It's also possible that the prompts themselves didn't resonate with me personally as much as the previous two games did. I still think it's a good design, and made sense for this game.
 

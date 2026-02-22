@@ -8,7 +8,7 @@ Since finishing school (which is starting to be a distressingly long time ago), 
 
 Last year a few friends and I were talking about boardgame and roleplaying game ideas we had rattling around in our heads and we decided to start meeting up weekly to work on our projects, helping each other playtest, and sharing our progress. This turned out to be hugely helpful for me, and I recently finished my first game! It's a rules-light RPG about wizards.
 
-Check it out here: [Download Word Wizards](https://brendanalbano.itch.io/word-wizards){:target="_blank"}
+Check it out here: [Download Word Wizards](https://brendanalbano.itch.io/word-wizards)
 
 And a quick shout out to Dodge Greenley, who did the fabulous art. You should hire him for all your illustration/storyboard/writing/funny-cartoon-stuff needs!
 

@@ -18,11 +18,11 @@ However, my players and I, quite enjoy sharing the storygame-style ability to in
 
 Try giving your players an opportunity to make up rumors about the world! I found it to be really fun and create a lot of engagement with the world without sacrificing the central challenge-based mode of play in my OSR game. If you do, I'd love to hear how it goes!
 
-And as a little visual treat, here are some of lovely hexes from [Games Omniverious](https://gamesomnivorous.com/collections/hex-omnivorous){:target="_blank"}
+And as a little visual treat, here are some of lovely hexes from [Games Omniverious](https://gamesomnivorous.com/collections/hex-omnivorous)
 
 ![Rotten Springs Hexcrawl]( {{ "/assets/2025-02-12-storygame-rumors-for-challenge-based-play/rotten-springs-hexcrawl.jpg" | absolute_url }} )
 
-They're headed to Rotten Springs. If you'd like to take a dip in Rotten Springs yourself, pick up [Gurtie's Guide VII - Rotten Springs](https://brendanalbano.itch.io/rotten-springs){:target="_blank"}.
+They're headed to Rotten Springs. If you'd like to take a dip in Rotten Springs yourself, pick up [Gurtie's Guide VII - Rotten Springs](https://brendanalbano.itch.io/rotten-springs).
 
-P.S. if it's still February 2025, go check out Kate and my project [FOLK Volume II: Travelers of the Inky Void on Backerkit!](https://www.backerkit.com/c/projects/kb-ba/folk-volume-ii?ref=brendanalbanocom){:target="_blank"}
+P.S. if it's still February 2025, go check out Kate and my project [FOLK Volume II: Travelers of the Inky Void on Backerkit!](https://www.backerkit.com/c/projects/kb-ba/folk-volume-ii?ref=brendanalbanocom)
 

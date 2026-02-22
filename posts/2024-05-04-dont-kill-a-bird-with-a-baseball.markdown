@@ -6,7 +6,7 @@ categories: games, review
 
 *Don't Kill a Bird with a Baseball: A Randy Johnson TTRPG* by JD Clement is a 3-page, 1-shot RPG in which every player plays a parallel version of 6'10" baseball pitcher Randy "the Big Unit" Johnson on March 24, 2001 in the 7 hours leading up to the fateful moment in which he will kill a bird with a baseball. This is a real event, and you can find the video on YouTube (content warning: a bird gets killed by a baseball). The game has simple rules and can be played GM-less, or with a GM.
 
-This review is based on playing in a game of DKABWAB at the [2024 Go Play NW Spring Festival](https://goplaynw.org/spring-festival/){:target="_blank"}. We played with a GM, and I was one of the three Randy Johnsons in the game.
+This review is based on playing in a game of DKABWAB at the [2024 Go Play NW Spring Festival](https://goplaynw.org/spring-festival/). We played with a GM, and I was one of the three Randy Johnsons in the game.
 
 ## The Premise
 
@@ -40,7 +40,7 @@ I lean slightly towards the diceless resolution, but it's hard to know for sure 
 
 Overall, I had a blast playing the game, the premise is fantastic, the Friction mechanic is clever, and I'm excited to play it again to see more people come up with more Randy Johnsons and to watch them struggle against destiny.
 
-*Don't Kill a Bird with a Baseball: A Randy Johnson TTRPG* is written by JD Clement. You can purchase the game from [Rat Bastard Games on itch.io](https://rat-bastard-games.itch.io/dont-kill-a-bird-with-a-baseball){:target="_blank"} for a donation of your choosing. I highly recommend it.
+*Don't Kill a Bird with a Baseball: A Randy Johnson TTRPG* is written by JD Clement. You can purchase the game from [Rat Bastard Games on itch.io](https://rat-bastard-games.itch.io/dont-kill-a-bird-with-a-baseball) for a donation of your choosing. I highly recommend it.
 
 # Updates after GMing
 
@@ -54,4 +54,4 @@ Third, I tried out my idea of having the other players adjudicate whether each J
 
 Finally, the one thing I did somewhat wish I had as a GM is a mechanic for harm or conditions for the characters. If a character breaks a rib, or is high on mushrooms, it's all narrative, it doesn't affect the dice. This works fine, but I think I would have enjoyed having the ability to have the characters conditions affect the dice rolls. 
 
-I've had this same desire when running [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/){:target="_blank"}, so a few weeks ago I made a (very) quick hack experimenting with adding some rules along those lines: [Advanced Lasers & Feelings](https://brendanalbano.itch.io/advanced-lasers-feelings){:target="_blank"}. I haven't actually played my hack yet, so this may not actually be a good idea. Gotta play to find out!
+I've had this same desire when running [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/), so a few weeks ago I made a (very) quick hack experimenting with adding some rules along those lines: [Advanced Lasers & Feelings](https://brendanalbano.itch.io/advanced-lasers-feelings). I haven't actually played my hack yet, so this may not actually be a good idea. Gotta play to find out!

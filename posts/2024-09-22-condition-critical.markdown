@@ -12,7 +12,7 @@ We can look to the way games like *Blades in the Dark* and *Thirsty Sword Lesbia
 
 What about no stats? Again, lots of great examples here, such as "Roll with the Questions" from *Pasión de las Pasiones*, or skills from *Trophy* (as just one of many examples of games that use a list of descriptive words as your skills).
 
-But what about that impossible to define OSR vibe? One of the things I really enjoy in an OSR game is the fear, [the sweat](https://www.lines.com/glossary/sweat/1889){:target="_blank"} (my new favorite term), that comes whenever the dice get rolled. I love the way damage works in games descended from Into the Odd. In particular, I love the way Critical Damage works, where when you take damage to your Strength score, you have to make a Strength Saving Throw, or suffer Critical Damage (which knocks you out of the fight, and is fatal if not tended to by your allies). Even a minor blow, a single point of strength damage, can take you out if you're unlucky! Getting hurt is always risky and always scary. That feels very OSR to me. As an aside, the other thing I like about Critical Damage is that it's high consequence, but usually doesn't mean instant death as long as your allies are able to tend to your wounds before you expire.
+But what about that impossible to define OSR vibe? One of the things I really enjoy in an OSR game is the fear, [the sweat](https://www.lines.com/glossary/sweat/1889) (my new favorite term), that comes whenever the dice get rolled. I love the way damage works in games descended from Into the Odd. In particular, I love the way Critical Damage works, where when you take damage to your Strength score, you have to make a Strength Saving Throw, or suffer Critical Damage (which knocks you out of the fight, and is fatal if not tended to by your allies). Even a minor blow, a single point of strength damage, can take you out if you're unlucky! Getting hurt is always risky and always scary. That feels very OSR to me. As an aside, the other thing I like about Critical Damage is that it's high consequence, but usually doesn't mean instant death as long as your allies are able to tend to your wounds before you expire.
 
 Can I just squish Conditions and Critical Damage together and get everything I love about the *Into the Odd* Critical Damage roll without needing HP or a Strength score? I think yes! Here is a sketch of how this might work for a game I'm working on.
 
@@ -49,5 +49,5 @@ The language gets a little clunky, but so far it's felt good to have characters 
 
 ## Sparked my curiosity
 
-- [Rise Up Comus](https://www.inoreader.com/article/3a9c6e745f923313-clowns){:target="_blank"} talks about clowns (which reminded me that I have the seed of an idea about a "solo clown LARP" that I want to return to)
-- [Playful Void](https://playfulvoid.game.blog/2024/06/06/thoughts-on-module-writing/){:target="_blank"} shares some thoughts on module writing
+- [Rise Up Comus](https://www.inoreader.com/article/3a9c6e745f923313-clowns) talks about clowns (which reminded me that I have the seed of an idea about a "solo clown LARP" that I want to return to)
+- [Playful Void](https://playfulvoid.game.blog/2024/06/06/thoughts-on-module-writing/) shares some thoughts on module writing

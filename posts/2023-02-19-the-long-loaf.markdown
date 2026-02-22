@@ -4,7 +4,7 @@ title: "The Long Loaf review"
 categories: cooking
 ---
 
-I've made a bunch of loaves from *Flour, Water, Salt, Yeast* by Ken Forkish, but they always felt like a special occasion. Which is delightful. I love special occasions. But, what about that romantic idea of being a person who bakes bread regularly as a normal and charming part of your weekly routine? That's where [*The Long Loaf* by Andrew Barton](https://www.twoplumpress.com/bookshop/the-long-loaf-bread-for-all-days-by-andrew-barton){:target="_blank"} comes in.
+I've made a bunch of loaves from *Flour, Water, Salt, Yeast* by Ken Forkish, but they always felt like a special occasion. Which is delightful. I love special occasions. But, what about that romantic idea of being a person who bakes bread regularly as a normal and charming part of your weekly routine? That's where [*The Long Loaf* by Andrew Barton](https://www.twoplumpress.com/bookshop/the-long-loaf-bread-for-all-days-by-andrew-barton) comes in.
 
 *The Long Loaf* is a blend of essays, stories, recipes all devoted to the romance of bread. And in particular, to the romance of bread baked in a loaf pan. *The Long Loaf* gave me permission to play with the recipes. Skip steps. Add steps. Make a process that works for me. Below is my weekly bread ritual. It's pretty similar to the one in Barton's book, but with a few bits of process I liked from Forkish's, and the timing that works for my schedule, preferences, and somewhat cold kitchen.
 
@@ -12,7 +12,7 @@ In addition to the recipe and schedule below, if you've never made sourdough bre
 
 ## Recipe
 
-Weighing your ingredients is great. Baker's percentages in parentheses. If you aren't familiar with baker's percentages, you can ignore them, [but here's a quick explanation](https://www.kingarthurbaking.com/pro/reference/bakers-percentage){:target="_blank"}.
+Weighing your ingredients is great. Baker's percentages in parentheses. If you aren't familiar with baker's percentages, you can ignore them, [but here's a quick explanation](https://www.kingarthurbaking.com/pro/reference/bakers-percentage).
 
 - 300g all-purpose flour (60%)
 - 150g whole-wheat flour (30%)
