@@ -13,6 +13,10 @@ config = defaultConfiguration
 
 main :: IO ()
 main = hakyllWith config $ do
+    match "CNAME" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "images/**" $ do -- ** to allow organizing in subfolders
         route   idRoute
         compile copyFileCompiler
