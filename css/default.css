@@ -42,7 +42,7 @@ a {
 }
 
 a:link {
-  color: #d44;
+  color: #dd4a4a;
 }
 
 a:visited {
@@ -78,6 +78,10 @@ nav a {
   color: #222;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+nav a:link {
+  color: #222;
 }
 
 nav a:visited {
