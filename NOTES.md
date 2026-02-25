@@ -2,7 +2,9 @@
 
 - [x] Fix images in old posts. Image link format is different. Presumably linking to another post within the blog will also be different, so check that out and fix it as well!
 - [ ] Add RSS feed
-- [x] Add some light theming. Maybe sans serif font, dark background? Crib from Catppuccin colors? Or use IA Writer Quatro?
+- [x] Add some light theming. Maybe sans serif font, dark background? Crib from Catppuccin colors? Or use IA Writer Quatro? (Decided to sort of match the Pony Press itch page).
+- [ ] Switch the metadata in all posts from `categories: ` to `tags: ` and remove the `layout` line.
+- [ ] Add a way to view posts by tag.
 
 # Notes to myself
 
