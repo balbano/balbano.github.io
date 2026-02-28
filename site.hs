@@ -1,15 +1,52 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
+import           Data.List   (stripPrefix)
+import           Data.Maybe  (fromMaybe)
 import           Hakyll
 
 
 --------------------------------------------------------------------------------
 
+-- Custom configuration
+
 config :: Configuration
 config = defaultConfiguration
   { destinationDirectory = "docs" -- for GitHub Pages
   }
+
+-- Contexts
+
+postCtx :: Context String
+postCtx =
+    dateField "date" "%B %e, %Y" `mappend`
+    defaultContext
+
+feedCtx :: Context String
+feedCtx = postCtx `mappend` bodyField "description"
+
+-- Feed configuration
+
+feedConfiguration :: FeedConfiguration
+feedConfiguration = FeedConfiguration
+    { feedTitle       = "Brendan's Blog"
+    , feedDescription = "I mostly write about tabletop games, art, baking and my feelings."
+    , feedAuthorName  = "Brendan Albano"
+    , feedAuthorEmail = "brendan@brendanalbano.com"
+    , feedRoot        = "https://www.brendanalbano.com"
+    }
+
+-- Auxilery compilers
+
+externalizeUrls :: String -> Item String -> Compiler (Item String)
+externalizeUrls root item = return $ withUrls ext <$> item
+  where
+    ext x = if isExternal x then x else root ++ x
+
+unExternalizeUrls :: String -> Item String -> Compiler (Item String)
+unExternalizeUrls root item = return $ withUrls unExt <$> item
+  where
+    unExt x = fromMaybe x $ stripPrefix root x
 
 main :: IO ()
 main = hakyllWith config $ do
@@ -39,6 +76,9 @@ main = hakyllWith config $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= (externalizeUrls     $ feedRoot feedConfiguration)
+            >>= saveSnapshot         "content"
+            >>= (unExternalizeUrls   $ feedRoot feedConfiguration)
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
@@ -72,9 +112,10 @@ main = hakyllWith config $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
-
---------------------------------------------------------------------------------
-postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
-    defaultContext
+    -- Render RSS feed
+    create ["feed.xml"] $ do
+        route idRoute
+        compile $ do
+            loadAllSnapshots "posts/*" "content"
+                >>= recentFirst
+                >>= renderAtom feedConfiguration feedCtx
