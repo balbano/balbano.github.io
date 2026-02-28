@@ -26,21 +26,20 @@ The `cabal run` seems to work the same as the `stack exec` I see in the tutorial
 
 Remove all the special kramdown open links in new window stuff that Hakyll doesn't support (and that I don't really want anymore anywas):
 
-    find . -type f -exec sed -i 's/{:target="_blank"}//g' {} \;
+    find . -type f -exec sed -i.bak 's/{:target="_blank"}//g' {} \;
 
 Fix the old Jekyll-style image links by swapping assets to images and stripping all the extra {{}} stuff:
 
-    find . -type f -exec sed -i 's@ {{ "/assets@/images@g' {} \;
-    find . -type f -exec sed -i 's@" | absolute_url }} @@g' {} \;
+    find . -type f -exec sed -i.bak 's@ {{ "/assets@/images@g' {} \;
+    find . -type f -exec sed -i.bak 's@" | absolute_url }} @@g' {} \;
 
 Fix internal links:
 
-    find . -type f -exec sed -i 's/{% post_url //g' {} \;
-    find . -type f -exec sed -i 's/ %}/.html/g' {} \;
+    find . -type f -exec sed -i.bak 's/{% post_url //g' {} \;
+    find . -type f -exec sed -i.bak 's/ %}/.html/g' {} \;
 
 Any external links to individual posts on my blog will be broken by the change to hakyll, but I think that's okay.
 
-I should have added "/posts/" to the internal links above. Do it after the fact with:
-
+I should have added "/posts/" to the internal links in the step above. This helps the links play nice when getting "externalized" in the rss feed. Instead I did it after the fact with:
 
     find . -type f -exec sed -i.bak 's@](2@](/posts/2@g' {} \;
