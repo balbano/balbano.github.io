@@ -39,18 +39,20 @@ feedConfiguration = FeedConfiguration
 -- Auxilery compilers
 
 -- externalizeUrls and unUnexternalizeUrls from https://github.com/Keruspe/blog/tree/master
--- For making rss/atom feed links render correctly in the snapshot.
--- I had to appand a "/" to root to make the links in the feed work.
+-- are for making rss/atom feed links render correctly in the snapshot.
+-- In order for this to work, internal links to posts need to be in the form
+-- [See my earlier post](/posts/yyyy-mm-dd-earlier-post.markdown), the "/posts/" part is 
+-- required to make the externalize & unexternalize thing work. 
 
 externalizeUrls :: String -> Item String -> Compiler (Item String)
 externalizeUrls root item = return $ withUrls ext <$> item
   where
-    ext x = if isExternal x then x else root ++ "/" ++ x
+    ext x = if isExternal x then x else root ++ x
 
 unExternalizeUrls :: String -> Item String -> Compiler (Item String)
 unExternalizeUrls root item = return $ withUrls unExt <$> item
   where
-    unExt x = fromMaybe x $ stripPrefix (root ++ "/") x
+    unExt x = fromMaybe x $ stripPrefix root x
 
 main :: IO ()
 main = hakyllWith config $ do

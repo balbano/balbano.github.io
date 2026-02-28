@@ -5,7 +5,7 @@ tags: games
 
 This is part 2 of **More Than Telling a Story**, an open-ended series of posts describing aspects of TTRPGs that resonate with me that aren't "telling a story."
 
-- [Part 1: Describing](2025-10-04-more-than-telling-a-story-part-1-describing.html)
+- [Part 1: Describing](/posts/2025-10-04-more-than-telling-a-story-part-1-describing.html)
 - Part 2: Being Clever (this post right here!)
 
 This is also maybe the first time in my life I've actually written the "part 2" of a series, so that's exciting!

@@ -39,3 +39,8 @@ Fix internal links:
     find . -type f -exec sed -i 's/ %}/.html/g' {} \;
 
 Any external links to individual posts on my blog will be broken by the change to hakyll, but I think that's okay.
+
+I should have added "/posts/" to the internal links above. Do it after the fact with:
+
+
+    find . -type f -exec sed -i.bak 's@](2@](/posts/2@g' {} \;
