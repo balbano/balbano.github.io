@@ -53,4 +53,4 @@ That's a lot of steps all typed out, but the flexibility of this approach has al
 
 ![Loaf and Crumb](/images/2023-02-19-the-long-loaf/loaf-crumb.jpg)
 
-Edit: here is [a brief loaf update](2023-03-07-sourdough-loaf-update.html) as my starter has continued to evolve!
+Edit: here is [a brief loaf update](/posts/2023-03-07-sourdough-loaf-update.html) as my starter has continued to evolve!

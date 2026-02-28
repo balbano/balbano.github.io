@@ -6,7 +6,7 @@ categories: cooking
 
 A quick loaf update!
 
-I've baked a few more loaves since [my post](2023-02-19-the-long-loaf.html) about Andrew Barton's *The Long Loaf*, and in that time my sourdough starter has grown more vigorous and now fully fills my loaf pan, so if I bake it with the lid on, I get a strange and charming square loaf like a pain de mie or pullman loaf.
+I've baked a few more loaves since [my post](/posts/2023-02-19-the-long-loaf.html) about Andrew Barton's *The Long Loaf*, and in that time my sourdough starter has grown more vigorous and now fully fills my loaf pan, so if I bake it with the lid on, I get a strange and charming square loaf like a pain de mie or pullman loaf.
 
 ![Loaf](/images/2023-03-07-sourdough-loaf-update/square-loaf.jpg)
 
