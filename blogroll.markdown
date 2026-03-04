@@ -14,6 +14,7 @@ This list could always be longer! Email me something you think I'd like about ga
 - [Goblin Punch](https://goblinpunch.blogspot.com/): I regularly reread the [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html).
 - [Rascal](https://www.rascal.news/): Worker-owned TTRPG journalism!
 - [Mothership.blog](https://www.mothership.blog/): Worker-owned videogame journalism!
+- [Looking at Picture Books](https://lookingatpicturebooks.com/): in particular the one about [Goodnight Moon](https://lookingatpicturebooks.com/p/goodnight-moon)
 
 ## Magazines / Blog Anthologies
 
