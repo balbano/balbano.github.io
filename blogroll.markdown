@@ -6,6 +6,34 @@ In my continued effort to unearth the traditions of the internet of yore, I pres
 
 This list could always be longer! Email me something you think I'd like about games, clown, or pumping iron! [brendan@brendanalbano.com](mailto:brendan@brendanalbano.com)
 
+## Brick Wall
+
+First off, let's crank the internet nostalgia up to 11 with these RPG blogger bricks:
+
+[![Brick](/images/bricks/afraidofencounters.bearblog.dev.gif)](https://afraidofencounters.bearblog.dev)
+[![Brick](/images/bricks/ape-encounter.bearblog.dev.gif)](https://ape-encounter.bearblog.dev)
+[![Brick](/images/bricks/binarystar.games.webp)](https://binarystar.games)
+[![Brick](/images/bricks/blog.d4caltrops.com.png)](https://blog.d4caltrops.com)
+[![Brick](/images/bricks/dreamshrike.blogspot.com.gif)](https://dreamshrike.blogspot.com)
+[![Brick](/images/bricks/elmc.at.gif)](https://elmc.at)
+[![Brick](/images/bricks/farmergadda.neocities.org.png)](https://farmergadda.neocities.org)
+[![Brick](/images/bricks/fluoriteguillotine.com.gif)](https://fluoriteguillotine.com)
+[![Brick](/images/bricks/icastlight.blogspot.com.webp)](https://icastlight.blogspot.com)
+[![Brick](/images/bricks/noisesanssignal.blogspot.com.webp)](https://noisesanssignal.blogspot.com)
+[![Brick](/images/bricks/patchworkpaladin.com.gif)](https://patchworkpaladin.com)
+[![Brick](/images/bricks/personable.blog.webp)](https://personable.blog)
+[![Brick](/images/bricks/stepnix.dreamwidth.org.gif)](https://stepnix.dreamwidth.org)
+[![Brick](/images/bricks/table46.bearblog.dev.gif)](https://table46.bearblog.dev)
+[![Brick](/images/bricks/tbr.bearblog.dev.webp)](https://tbr.bearblog.dev)
+[![Brick](/images/bricks/tejongallud.com.webp)](https://tejongallud.com)
+[![Brick](/images/bricks/toastedblogal.jofrank.com.gif)](https://toastedblogal.jofrank.com)
+[![Brick](/images/bricks/tree-climber.blogspot.com.gif)](https://tree-climber.blogspot.com)
+[![Brick](/images/bricks/virtualmoose.org.webp)](https://virtualmoose.org)
+
+If you'd like to add my brick to your blogroll, use this:
+
+[![Brick](/images/bricks/brendanalbano.com.gif)](https://brendanalbano.com.)
+
 ## Blogs and Games Press
 
 - [Traverse Fantasy](https://traversefantasy.blogspot.com/): You never know if you're gonna get RPG theory or political theory, and they're both good.
