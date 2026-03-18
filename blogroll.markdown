@@ -8,13 +8,13 @@ This list could always be longer! Email me something you think I'd like about ga
 
 ## RPG Blog Webring
 
-If you just arrived here from rootring, welcome! Check out "Home" or "Archive" in the top nav to read my posts, and come back here to "Blogroll" to continue your rootring journey! And if you didn't, find more RPG blogs to read by following the links below!
+If you just arrived here from rootring, welcome! Check out "Home" or "Archive" in the top nav to read my posts, and come back here to "Blogroll" to continue your rootring journey! And if you didn't, find more RPG blogs to read by following the rootring links below!
 
-[Explore the rootring](https://rootr.ing/)\
-├─ [prev](https://rootr.ing/prev?site=https://www.brendanalbano.com/blogroll.html)\
-├─ [random](https://rootr.ing/random)\
-├─ [ring](https://rootr.ing/directory)\
-└─ [next](https://rootr.ing/next?site=https://www.brendanalbano.com/blogroll.html)
+[ROOTRING](https://rootr.ing/)\
+├─ [prev blog](https://rootr.ing/prev?site=https://www.brendanalbano.com/)\
+├─ [rand blog](https://rootr.ing/random)\
+├─ [ring dir](https://rootr.ing/directory)\
+└─ [next blog](https://rootr.ing/next?site=https://www.brendanalbano.com/)
 
 ## Brick Wall
 
