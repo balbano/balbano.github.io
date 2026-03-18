@@ -6,9 +6,19 @@ In my continued effort to unearth the traditions of the internet of yore, I pres
 
 This list could always be longer! Email me something you think I'd like about games, clown, or pumping iron! [brendan@brendanalbano.com](mailto:brendan@brendanalbano.com)
 
+## RPG Blog Webring
+
+If you just arrived here from rootring, welcome! Check out "Home" or "Archive" in the top nav to read my posts, and come back here to "Blogroll" to continue your rootring journey! And if you didn't, find more RPG blogs to read by following the links below!
+
+[Explore the rootring](https://rootr.ing/)\
+├─ [prev](https://rootr.ing/prev?site=https://www.brendanalbano.com/blogroll.html)\
+├─ [random](https://rootr.ing/random)\
+├─ [ring](https://rootr.ing/directory)\
+└─ [next](https://rootr.ing/next?site=https://www.brendanalbano.com/blogroll.html)
+
 ## Brick Wall
 
-First off, let's crank the internet nostalgia up to 11 with these RPG blogger bricks:
+If a webring wasn't enough, let's crank the internet nostalgia up to 11 with these RPG blogger bricks:
 
 [![Brick](/images/bricks/afraidofencounters.bearblog.dev.gif)](https://afraidofencounters.bearblog.dev)
 [![Brick](/images/bricks/ape-encounter.bearblog.dev.gif)](https://ape-encounter.bearblog.dev)
