@@ -6,9 +6,11 @@ In my continued effort to unearth the traditions of the internet of yore, I pres
 
 This list could always be longer! Email me something you think I'd like about games, clown, or pumping iron! [brendan@brendanalbano.com](mailto:brendan@brendanalbano.com)
 
-## RPG Blog Webring
+## ROOTRING
 
-If you just arrived here from rootring, welcome! Check out "Home" or "Archive" in the top nav to read my posts, and come back here to "Blogroll" to continue your rootring journey! And if you didn't, find more RPG blogs to read by following the rootring links below!
+> rootring is a curated ring for discovering TTRPG blogs without relying on social timelines or recommendation algorithms. rootring links blogs together so readers can move from one site to the next and discover new writing by following the ring.
+
+If you just arrived here from rootring, welcome! Head to [home](/index.html) or [archive](/archive.html) to read my posts, and come back here to the blogroll to continue your rootring journey! 
 
 [ROOTRING](https://rootr.ing/)\
 ├─ [prev blog](https://rootr.ing/prev?site=https://www.brendanalbano.com/)\
