@@ -3,9 +3,9 @@ title: "Success, Prompts, Resources: An Arbitrary Way of Categorizing TTRPGS"
 tags: games
 ---
 
-That I actually think is pretty useful!
+That I actually think is pretty useful! This also may just secretly be a post where I think about Blades in the Dark, since I've been playing a lot of that. Be warned!
 
-Imagine a venn diagram (imagine that I will later actually draw this), each circle is a thing the game is concerned with:
+Imagine a Venn diagram (imagine that I will later actually draw this), each circle is a thing the game is concerned with:
 
 1. Using chance (rolling dice, etc.) to determine if an action succeeds or fails
 2. Responding to prompts
@@ -27,5 +27,7 @@ What I find useful about this is that it explains to me why Blades in the Dark f
 I also think it's kind of interesting that this way of dividing up games feels very sensible (at least if I talk confidently and don't think about it too hard), but is of course one of a zillion ways to do it. Sam Sorenson's [Three Question Taxonomy](https://samsorensen.blot.im/sams-three-question-taxonomy) divides things up along totally different lines for example (and is a 3-axis graph, rather than a venn diagram).
 
 Even though my taxonomy here is shaky, and I literally wrote it in my notebook I keep beside my bed in case I have a thought in the middle of the night, as I think more about it, I think it's interesting that it focusses on what you do as a player, but somehow manages to say that whether or not a game has a GM or if it is about storytelling isn't actually that relevent to this particular lens through which to sort games.
+
+Another thought I had triggered by this taxonomy: in Blades in the Dark Deep Cuts, the Threat Roll more or less removes the idea of success/failure from the game. Instead, you (mostly) always succeed, and the question becomes "at what cost?". In this lens, BitD with Deep Cuts moves into the "resource management only" area of the Venn diagram and is now rubbing shoulders with Nobilis instead of D&D.
 
 Should we do a game taxonomy jam? Did this already happen on the blogosphere in response to Sam Sorenson's post and I'm just super late to the bandwagon?
