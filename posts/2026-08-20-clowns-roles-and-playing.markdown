@@ -25,7 +25,9 @@ This sort of boundary blurring is always present in RPGs, but it's really exciti
 
 I started this blog post a long time ago, and never quite finished it because it's a much bigger idea in my head that's swirling around and I was struggling to actualy get going on it. But with my success at coming back for [a second part of an ongoing topic](/posts/2026-02-27-more-than-telling-a-story-part-2-being-clever.html), and I'm just going to leave it as is as a little introductory nugget, and hopefully come back for more later!
 
-In fact, this draft (which I deleted and rewrote almost entirely) is so old that I still had a little "links" thing at the bottom that I was briefly into! So let's keep it. These are some things that I read/listened to around the time that I first created this draft!
+In the meantime, I recommend meditating on this [beautiful take on clown ecology](https://riseupcomus.blogspot.com/2024/09/clowns.html) for His Majesty the Worm.
+
+Also, this draft was so old that after the scattered notes it still had a little "links" thing at the bottom that I was briefly into! So let's keep it. These are some things that I read/listened to around the time that I first created this draft!
 
 ## Sparked my curiosity
 
